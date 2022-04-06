@@ -25,3 +25,5 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 ## Contact
 Created by [@santoshnagaraju] - feel free to contact me!
 
+## Note:
+Adding Individual Files too incase Zip is not working !!
